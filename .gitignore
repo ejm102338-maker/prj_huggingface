@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+runs/
+DogCatProject-1/
+vision_project/images/
+project_server/images/
+yolo26n.pt
