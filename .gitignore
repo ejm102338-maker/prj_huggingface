@@ -13,3 +13,6 @@ DogCatProject-1/
 vision_project/images/
 project_server/images/
 yolo26n.pt
+models/
+.pt
+images/
